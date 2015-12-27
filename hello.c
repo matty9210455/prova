@@ -4,5 +4,6 @@ printf("hello\n");
 printf("i got %d args!\n",argc);
 printf("trallalero\n");
 print("change"\n);
+int bah;
 return 0;
 }
